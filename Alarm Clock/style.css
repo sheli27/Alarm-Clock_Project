@@ -1,0 +1,28 @@
+body{
+	background: skyblue;
+}
+.content{
+	width: 600px;
+	min-height: 200px;
+	margin: 0 auto;
+	border: 2px solid black;
+	background: white;
+	padding: 10px;
+}
+button{
+	margin: 5px;
+	padding: 5px 15px;
+	background: skyblue;
+	border: 2px solid black;
+	color: blue;
+	font-size: 22px;
+	cursor: pointer;
+}
+input{
+	margin: 5px;
+	padding: 5px;
+	font-size: 22px;
+}
+p{
+	font-size: 50px;
+}
